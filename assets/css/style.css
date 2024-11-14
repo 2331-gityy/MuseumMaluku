@@ -10,9 +10,9 @@
     --white: #F4F6FF; 
 }
 .home{
-    background-image: linear-gradient(var(--gradient-color),var(--gradient-color),var(--gradient-color)), url(https://png.pngtree.com/thumb_back/fw800/background/20220307/pngtree-balinese-kecak-dance-bali-indonesia-song-evening-asian-photo-image_5141178.jpg);
+    background-image: linear-gradient(var(--gradient-color),var(--gradient-color),var(--gradient-color)), url(https://berita.99.co/wp-content/uploads/2019/10/Rumah-Adat-Kalimantan-Timur-Bernama-Lamin.jpg);
     background-position: center;
-    background-size: 100%;
+    background-size: 100vh;
     background-repeat: no-repeat;
     display: flex;
     height: 100vh;
@@ -24,7 +24,7 @@
     text-align: center;
 }
 .content-home h4{
-    font-size: 1.1rem;
+    font-size: 1rem;
 }
 .content-home h1{
     font-family: "Pacifico", "Poppins",Arial, Helvetica, sans-serif;
