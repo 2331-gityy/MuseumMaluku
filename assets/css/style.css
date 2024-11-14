@@ -5,7 +5,7 @@
     padding: 0;
     font-family: "Poppins",Arial, Helvetica, sans-serif;
     --primary-color: rgb(241, 197, 36);
-    --gradient-color: rgba(255, 76, 76, 0.3);
+    --gradient-color: rgba(0, 0, 0, 0.3);
     --secondary-color: rgb(235, 131,23);
     --white: #F4F6FF; 
 }
@@ -28,11 +28,11 @@
 }
 .content-home h1{
     font-family: "Pacifico", "Poppins",Arial, Helvetica, sans-serif;
-    font-size: 2.8rem;
+    font-size: 3.8rem;
     line-height: 60px;
 }
 .content-home p{
-    font-size: 1rem;
+    font-size: 2rem;
 }
 .start{
     color: var(--white);
