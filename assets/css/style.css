@@ -12,7 +12,7 @@
 .home{
     background-image: linear-gradient(var(--gradient-color),var(--gradient-color),var(--gradient-color)), url(https://berita.99.co/wp-content/uploads/2019/10/Rumah-Adat-Kalimantan-Timur-Bernama-Lamin.jpg);
     background-position: center;
-    background-size: 120vh;
+    background-size: cover;
     display: flex;
     height: 100vh;
     align-items: center;
