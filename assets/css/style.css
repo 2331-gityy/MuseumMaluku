@@ -12,8 +12,7 @@
 .home{
     background-image: linear-gradient(var(--gradient-color),var(--gradient-color),var(--gradient-color)), url(https://berita.99.co/wp-content/uploads/2019/10/Rumah-Adat-Kalimantan-Timur-Bernama-Lamin.jpg);
     background-position: center;
-    background-size: 100vh;
-    background-repeat: no-repeat;
+    background-size: 120vh;
     display: flex;
     height: 100vh;
     align-items: center;
@@ -24,7 +23,7 @@
     text-align: center;
 }
 .content-home h4{
-    font-size: 1rem;
+    font-size: 2rem;
 }
 .content-home h1{
     font-family: "Pacifico", "Poppins",Arial, Helvetica, sans-serif;
@@ -32,7 +31,7 @@
     line-height: 60px;
 }
 .content-home p{
-    font-size: 2rem;
+    font-size: .9rem;
 }
 .start{
     color: var(--white);
