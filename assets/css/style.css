@@ -27,10 +27,10 @@
 }
 .content-home h1{
     font-family: "Pacifico", "Poppins",Arial, Helvetica, sans-serif;
-    font-size: 4rem;
+    font-size: 6rem;
 }
 .content-home p{
-    font-size: 1.3rem;
+    font-size: 2rem;
 }
 .start{
     color: var(--white);
