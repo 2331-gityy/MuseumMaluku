@@ -29,10 +29,10 @@
 .content-home h1{
     font-family: "Pacifico", "Poppins",Arial, Helvetica, sans-serif;
     font-size: 6rem;
-    line-height: 30px;
+    line-height: 60px;
 }
 .content-home p{
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 .start{
     color: var(--white);
